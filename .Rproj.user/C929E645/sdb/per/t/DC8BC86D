@@ -1,0 +1,17 @@
+{
+    "contents" : "a <- 12\n",
+    "created" : 1408387780654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1946810181",
+    "id" : "DC8BC86D",
+    "lastKnownWriteTime" : 1408387816,
+    "path" : "~/dev/school/R/helloWorld/helloWorld.R",
+    "project_path" : "helloWorld.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
